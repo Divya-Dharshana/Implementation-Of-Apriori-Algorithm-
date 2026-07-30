@@ -1,7 +1,5 @@
 # Association rule mining system with contextual variables using python
 
-# Product Association with Time Using Apriori Algorithm
-
 ## Project Overview
 
 This project analyzes bakery transaction data to identify products that are frequently purchased together and understand how purchasing patterns vary across different time periods.
@@ -125,7 +123,7 @@ By separating actual products from time-related contextual information, the proj
 ## Author
 
 **Divya Dharshana J**
-M.Sc. Computer Science
+(M.Sc. Computer Science)
 
 ## License
 
